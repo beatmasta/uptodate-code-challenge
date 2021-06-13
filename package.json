@@ -1,0 +1,13 @@
+{
+  "name": "coding-challenge",
+  "version": "0.0.1",
+  "description": "Uptodate Coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
